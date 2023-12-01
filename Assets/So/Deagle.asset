@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce8abe449d395e49aaa32faf5ba88aa, type: 3}
+  m_Name: Deagle
+  m_EditorClassIdentifier: 
+  isPistol: 1
+  keyCode: 49
+  fullAmmo: 7
+  fireRate: 2
+  delayMuzzleFlashBeforeFade: 0.1
+  reloadTime: 3.05
+  delayAfterTakeWeapon: 1.3
+  isAuto: 0
+  weaponIndex: 0
+  weaponName: deagle
+  delayToPlayReloadSound: 1.5
+  damage: 34
+  shootClip: 2
+  reloadClip: 3
